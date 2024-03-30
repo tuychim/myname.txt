@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TM
+=======
+Tuychi Mamadzhonov
+>>>>>>> 548277d525e490efc3c3d4af5e39a34de2aaf61b
